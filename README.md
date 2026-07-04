@@ -11,7 +11,7 @@
 - Observability, on-call, incident response, multi-region DR
 
 **Developer Experience & AI Enablement**
-- MCP server integrations and agent context (AGENT.md) for AI coding agents
+- MCP server integrations and agent context/instructions across tools (CLAUDE.md, AGENTS.md, Cursor Rules) for AI coding agents
 - A cross-agent verification system: an independent AI agent that checks another agent's work before it's accepted
 - Internal developer tooling and CI-integrated code review
 
